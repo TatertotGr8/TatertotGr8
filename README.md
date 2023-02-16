@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatertotgr8&label=Profile%20Visitors&color=0eb456&style=flat" alt="tatertotgr8" /> </p>
 
-- 🔭 I’m currently working on [My Trimester 1 Final: Minecraft Seed Cracking](https://docs.google.com/document/d/1S-tqtsDtqdalQDEEsopy5CnU4O1-bL9xtSGgOIrrxzI/edit#)
+- 🔭 I’m currently working on [My Trimester 2 Final: White Hat Hacking](https://docs.google.com/document/d/1dBC1Tu0k22zIaQfHUZ3xJEAjj7XcRHPTL8qb3yUjKWA/edit?usp=sharing)
 
-- 🌱 I’m currently learning **Game Design With Unity**
+- 🌱 I’m currently learning **Hacking the Government**
 
 - 💬 Ask me about **Technical Minecraft**
 
-- 📫 Reach me at: **Tatertot#7962 On Discord**
+- 📫 Reach me at: **Tatertot#7962 on Discord**
 
 - ⚡ Fun fact **A Hot Dog is NOT a Taco**
 
